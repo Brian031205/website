@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Welcome to my site",
     "section": "",
-    "text": "I am a third year undergraduate student at the University of Toronto. I am in statistic major, math and computer science minor. I am looking forward to be a data analyst."
+    "text": "My name is Bolin Shen. I am a third year undergraduate student at the University of Toronto. I am in statistic major, math and computer science minor. I am looking forward to be a data analyst.\nHere is my CV"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My Email: bolinshen@mail.utoronto.ca\nMy Tel: 6476718670"
   }
 ]

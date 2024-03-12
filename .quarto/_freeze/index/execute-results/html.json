@@ -1,8 +1,8 @@
 {
-  "hash": "9e34eaf490b6124d0db24dc406da28e5",
+  "hash": "28a46ff7b81997970fa7015dfc167047",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Welcome to my site\"\n---\n\n\nI am a third year undergraduate student at the University of Toronto. I am in statistic major, math and computer science minor. I am looking forward to be a data analyst.\n\n\n::: {.cell}\n\n:::\n",
+    "markdown": "---\ntitle: \"Welcome to my site\"\n---\n\n\nI am a third year undergraduate student at the University of Toronto. I am in statistic major, math and computer science minor. I am looking forward to be a data analyst.\n\n\n\n\n::: {.cell}\n\n:::\n\nHere is my [CV](./curriculum_vitae.pdf)",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

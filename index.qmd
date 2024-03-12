@@ -1,0 +1,9 @@
+---
+title: "Welcome to my site"
+---
+
+I am a third year undergraduate student at the University of Toronto. I am in statistic major, math and computer science minor. I am looking forward to be a data analyst.
+
+```{r}
+
+```

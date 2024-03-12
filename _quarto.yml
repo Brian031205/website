@@ -1,0 +1,24 @@
+
+
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bolin Shen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+
+
